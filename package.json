@@ -1,0 +1,23 @@
+{
+  "name": "gudig-database",
+  "version": "0.1.0",
+  "description": "database module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nobitco/gudig-database.git"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Jesus Marquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nobitco/gudig-database/issues"
+  },
+  "homepage": "https://github.com/nobitco/gudig-database#readme"
+}
