@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/nobitco/gudig-database/issues"
   },
-  "homepage": "https://github.com/nobitco/gudig-database#readme"
+  "homepage": "https://github.com/nobitco/gudig-database#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "co": "^4.6.0",
+    "rethinkdb": "^2.3.3"
+  }
 }
